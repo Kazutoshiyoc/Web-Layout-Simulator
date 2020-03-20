@@ -1,0 +1,91 @@
+html {font-size: 62.5%;}
+body {font-size: 1.6rem;}
+
+#Setting {
+	margin: 0.4em;
+	float: left;
+}
+
+#BoxNum {
+	margin: 0.2em;
+	float: left;
+}
+
+.block {
+	margin: 20px;
+}
+
+.title {
+	float: left;
+	font-size: 1.8em;
+}
+
+.menu {
+	float: left;
+}
+
+.result {
+	overflow: scroll;
+	width: 95%;
+	height: 50vh;
+	border: solid 1px #ccc;
+}
+
+.box {
+	width: 80px;
+	height: 80px;
+	background-color: black;
+}
+
+.opt {
+	float: left;
+	width: 17em;
+	margin: 30px 2.5px;
+	padding: 13px;
+	background-color: #f7f7f7;
+	border: solid;
+	border-color: #e6e6e6;
+	border-width: 1px;
+	border-radius: 5px;
+}
+
+.optStr {
+	font-size: 1.1em;
+	letter-spacing: 0.1em;
+	line-height: 1.5em;
+}
+
+.optEle {
+	margin-top: 13px;
+	margin-left: 3em;
+	font-weight: bold;
+}
+
+.eleOp {
+	margin-top: 8px;
+	margin-left: 5em;
+}
+
+.radioAuto {
+	margin-left: 4.1em;
+}
+
+.num {
+	width: 3.3em;
+}
+
+.numShort {
+	width: 2em;
+}
+
+.unit {
+	width: 3em;
+}
+
+.unitLong {
+	width: 3.8em;
+}
+
+.text {
+	width: 3.8em;
+}

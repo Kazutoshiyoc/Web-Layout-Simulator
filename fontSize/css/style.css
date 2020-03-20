@@ -1,0 +1,18 @@
+html {font-size: 62.5%;}
+body {font-size: 1.6rem;}
+
+.block {
+	margin: 20px;
+}
+
+.title {
+	font-size: 1.8em;
+}
+
+.text {
+	margin: 20px;
+}
+
+.numShort {
+	width: 3em;
+}
