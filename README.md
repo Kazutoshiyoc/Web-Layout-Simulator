@@ -12,4 +12,4 @@ HTML/CSSの基礎的なレイアウト描画をシミュレーションするこ
   + 1px〜100pxのフォントサイズのチェックが可能です。
 
 ## Published version
-[http://simulator.pengunin.com/](http://simulator.pengunin.com/ "Web Layout Simulator (published version)")
+[http://websimulator.pengunin.com/](http://websimulator.pengunin.com/ "Web Layout Simulator (published version)")
